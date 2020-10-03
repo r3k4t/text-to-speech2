@@ -22,9 +22,9 @@ Text to speech (TTS) is the use of software to create an audio output in the for
 ### Linux Terminal Command ###
 
 <ul>
-<li>git clone https://github.com/r3k4t/text-to-speech2.git<li>
-<li>cd  text-to-speech2<li>
-<li>sudo python3 text-to-speech2.py<li>
+<li>git clone https://github.com/r3k4t/text-to-speech2.git</li>
+<li>cd  text-to-speech2</li>
+<li>sudo python3 text-to-speech2.py</li>
 </ul>
 
 ![Screenshot at 2020-10-03 13-41-45](https://user-images.githubusercontent.com/69615463/94986781-1f5b6180-057f-11eb-97d1-ab19719087e6.png)
