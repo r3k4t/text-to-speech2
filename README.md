@@ -9,10 +9,10 @@
 To install the Pi espeak ,pyttsx3  tools library,open the command-line program and execute the following command: 
 
 <ul>
-<li>sudo pip install epseak</li>
+<li>sudo pip3 install epseak</li>
 <li>or</li>
 <li>sudo apt install python3-espeak</li>
-<li>sudo pip install pyttsx3</li>
+<li>sudo pip3 install pyttsx3</li>
 </ul>
 
 ### What is Text-To-Speech(TTS) ? ###
